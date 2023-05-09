@@ -21,7 +21,24 @@ You can click the Preview link to take a look at your changes.
 </div>
   
   ##
- 
-<div>
-  https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+  
+ <div>
+  
+  
+  ![Snake animation](https://github.com/Myloveken/Myloveken/blob/output/github-contribution-grid-snake.svg) 
+  
+  
 </div>
+
+
+<!-- <p align="center">
+  <a href="https://lucasrmagalhaes.github.io/snake-js/">
+    <img 
+         src="https://github.com/lucasrmagalhaes/snake-js/blob/master/img/snake.gif?raw=true" 
+         alt="Snake Game" 
+    />
+  </a>
+  <br />
+</p> -->
+
+
