@@ -4,7 +4,7 @@
 Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Eu sou estudante de desenvolvimento-Fullstack na Faculdade Estacío, Cursei java, cloud, react da DIO.me uma parceria do Grupo Carrefour Brasil
+# Eu sou estudante de desenvolvimento-Fullstack na Faculdade Estacío, Cursei java, cloud, react da DIO.me uma parceria do Grupo Carrefour Brasil
 <div>
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Myloveken&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myloveken&layout=compact&langs_count=7&theme=radical"/>
@@ -32,4 +32,4 @@ Eu sou estudante de desenvolvimento-Fullstack na Faculdade Estacío, Cursei java
   <a href="https://www.linkedin.com/in/kenlove-chereste-067891188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   </div>
-  
+  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
