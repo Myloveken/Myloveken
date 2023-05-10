@@ -5,6 +5,7 @@ Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## Eu sou estudante de desenvolvimento-Fullstack na Faculdade Estacío, Cursei java, cloud, react no projeto do TRANSFORMA TEC da DIO.me uma parceria do Grupo Carrefour Brasil.
+
 <div>
   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=Myloveken&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myloveken&layout=compact&langs_count=7&theme=radical"/>
@@ -33,4 +34,23 @@ You can click the Preview link to take a look at your changes.
   
   </div>
   
-![Snake animation](https://github.com/Myloveken/Myloveken.git/blob/output/github-contribution-grid-snake.svg)
+  ### 
+  
+  <div> 
+
+ 
+  ![Snake animation](https://github.com/Myloveken/Myloveken/blob/output/github-contribution-grid-snake.svg) 
+ 
+</div>
+
+<!-- <p align="center">
+  <a href="https://lucasrmagalhaes.github.io/snake-js/">
+    <img 
+         src="https://github.com/lucasrmagalhaes/snake-js/blob/master/img/snake.gif?raw=true" 
+         alt="Snake Game" 
+    />
+  </a>
+  <br />
+</p> -->
+
+  </div>
