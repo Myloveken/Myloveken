@@ -1,15 +1,17 @@
 ### Hi there 👋
-# 👋 Hi, I’m Myloveken
+# 👋 I’m Myloveken
 <!---
 Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Eu sou estudante de desenvolvimento-Fullstack na Faculdade Estacío, Cursei java, cloud, react no projeto do TRANSFORMA TEC da DIO.me uma parceria do Grupo Carrefour Brasil.
+### Eu sou estudante de desenvolvimento-Fullstack na Faculdade Estacío, Cursei java, cloud, react no projeto do TRANSFORMA TEC da DIO.me uma parceria do Grupo Carrefour Brasil.
 
 <div>
   <img height="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+### Atualmente estou estudando essas linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
@@ -19,25 +21,29 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-
 </div>
+
+
+### Atualmente estou usando 
+  ![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
+  ![VSCODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![VISUALSTUDIO](https://img.shields.io/badge/VISUAL_STUDIO-7733FF?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-ECE2FB?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
   
-  ##
-  
-  <div>
-  <a href="https://www.youtube.com/channel/UCPNsR_SArjbCOQ56Ip-pAog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/myloveken26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://dashboard.twitch.tv/u/myloveken/home" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cherestek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kenlove-chereste-067891188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
+ ### Conecte-se comigo:
+ <a href="https://www.linkedin.com/in/kenlove-chereste-067891188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:cherestek@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
+ [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myloveken)
+ <a href="https://www.youtube.com/channel/UCPNsR_SArjbCOQ56Ip-pAog" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/myloveken26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://dashboard.twitch.tv/u/myloveken/home" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+ [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PBJIQHCY4EEXO1)
   
   ### 
   
   <div> 
-
  
   ![Snake animation](https://github.com/Myloveken/Myloveken/blob/output/github-contribution-grid-snake.svg) 
  
