@@ -4,7 +4,7 @@
 
 ### _Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` ([this file](https://github.com/Myloveken/Myloveken/edit/main/README.md)) appears on my GitHub profile explaining my trajectory in the technology. It could change at any time! You can click the Preview link to take a look at my changes._
 
-## I'm a fullstack-development student at Estacio University. I finished a java, cloud, react course in the Transforma Tec project by DIO.m, a partnership with the Carrefour Brasil Group.
+## I'm a fullstack-development student at Estacio University. I finished a java, cloud, react course in the Transforma Tec project by ([DIO.ME](https://web.dio.me/users/cherestek?tab=skills)) a partnership with the Carrefour Brasil Group.
 
 # Each being is a 🌟 with its own trajectory to follow.
 
@@ -13,6 +13,18 @@
 <div>
   <img height="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+
 </div>
 
 
@@ -28,7 +40,7 @@
   [![RAM](https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white)](https://github.com/Myloveken)
   [![COREI7](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/Myloveken)
  
-   ## 🎯 **_i'am currently using_:**
+   ## 🎯 **_i'am currently using/studing_:**
    
   ![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
   ![VSCODE](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
