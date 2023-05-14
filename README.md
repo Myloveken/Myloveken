@@ -4,7 +4,7 @@
 
 ### _Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` [this file](https://github.com/Myloveken/Myloveken/edit/main/README.md) appears on my GitHub profile explaining my trajectory in the technology. It could change at any time! You can click the Preview link to take a look at my changes._
 
-## I'm a fullstack-development student at Estacio University. I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME](https://web.dio.me/users/cherestek?tab=skills) a partnership with the Carrefour Brasil Group.
+## I'm a Fullstack-Development student at Estacio University. I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME](https://web.dio.me/users/cherestek?tab=skills) a partnership with the Carrefour Brasil Group.
 
 # Each being is a 🌟 with its own trajectory to follow.
 
