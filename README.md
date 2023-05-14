@@ -15,13 +15,10 @@
   <img #C21E56="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
   ## 💻 **_Operational system:_**
   
    [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Myloveken)
   [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Myloveken)
-  
-  
   
   ## 💻 **_Computer material:_**
   
@@ -48,7 +45,6 @@
  [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=EBD03E&amp;color:#C21E56)](https://github.com/Myloveken)
  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=EBD03E&amp;color:#967117)](https://www.instagram.com/myloveken26/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=EBD03E&amp;color:#C21E56)](https://discord.com/channels/@me) 
-  
  
  ## ⚙ **_Tools studing_**
  
