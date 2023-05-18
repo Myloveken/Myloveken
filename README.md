@@ -9,10 +9,15 @@
 # Each being is a 🌟 with its own trajectory to follow.
 
 ## 📊 **_Stats_**
-<div>
-  <img height="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Myloveken github stats" /> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+</div> 
+
+  <!--Sneek Myloveken-->
+![](https://github.com/Myloveken/Myloveken/raw/output/github-contribution-grid-snake.svg)
+ <!---------------------------------------------------------------------------------------------------------------> 
+  <table style="width:100%",>
+ 
 
   ## 💻 **_Operational system:_**
   
