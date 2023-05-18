@@ -1,8 +1,10 @@
-# Hi there 👋
-# 👋 I’m Myloveken
-## Invisible, mysterious and reassuring energy - . aura or whatever - that I give off is all my own! I have no doubt !
 
-### _Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` [this file](https://github.com/Myloveken/Myloveken/edit/main/README.md) appears on my GitHub profile explaining my trajectory in the technology. It could change at any time! You can click the Preview link to take a look at my changes._
+<!--Title @Myloveken-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=30&center=true&vCenter=true&width=1000&lines=HELLO!👋;i'm+from+Brazil;i'm+a+student+Full+Stack+Development+at+Estacio+University;Welcome!)
+-------
+### _Invisible, mysterious and reassuring energy - . aura or whatever - that I give off is all my own! I have no doubt!_
+
+## Myloveken/Myloveken is a ✨ special ✨ repository because its `README.md` [this file](https://github.com/Myloveken/Myloveken/edit/main/README.md) appears on my GitHub profile explaining my trajectory in the technology. It could change at any time! You can click the Preview link to take a look at my changes.
 
 ## I'm a Fullstack-Development student at Estacio University. I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME](https://web.dio.me/users/cherestek?tab=skills) a partnership with the Carrefour Brasil Group.
 
@@ -10,7 +12,7 @@
 
 ## 📊 **_Stats_**
 
-<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Myloveken github stats" /> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bastndev&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Myloveken github stats" /> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
 
   <!--Sneek Myloveken-->
@@ -21,7 +23,7 @@
 
   ## 💻 **_Operational system:_**
   
-   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Myloveken)
+  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Myloveken)
   [![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Myloveken)
   
   ## 💻 **_Computer material:_**
@@ -66,8 +68,7 @@
  [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Myloveken)
   <div> 
  
-  ![Snake animation](https://github.com/Myloveken/Myloveken/blob/output/github-contribution-grid-snake.svg) 
- 
+
 </div>
 
 <!-- <p align="center">
