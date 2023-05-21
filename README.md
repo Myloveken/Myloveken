@@ -17,8 +17,12 @@
 # Each being is a 🌟 with its own trajectory to follow.
 
 ### About me
-i'm a Fullstack-Development student at Estacio University. 
-I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME](https://web.dio.me/users/cherestek?tab=skills) a partnership with the Carrefour Brasil Group.
+- i'm a Fullstack-Development student at Estacio University. 
+- I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME](https://web.dio.me/users/cherestek?tab=skills) a partnership with the Carrefour Brasil Group.
+
+### Certificated 
+![B4355F32_page-0001](https://github.com/Myloveken/Myloveken/assets/98883069/3bd98d38-a747-4163-b29b-7a33f3c9f135)
+
 
 #### My Current Status.
 - 🌱 Currently working on bettering myself and learning EVERTHING 😄
@@ -117,9 +121,7 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
 </div>
 <h2>
  
- <p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
-</p>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
  
 
 
