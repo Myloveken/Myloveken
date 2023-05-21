@@ -4,21 +4,7 @@
 -------
 
  # Invisible, mysterious and reassuring energy - . aura or whatever - that I give off is all my own! I have no doubt!
-
-<!-- START NEW SECTION -->
-<div align="center">
- <br>
- <p align="centre"><b> Here is a random joke that will make your day!</b></p>
- 
- 
-![Jokes Card](https://readme-jokes.vercel.app/api)
- 
- 
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-<br>
-</div>
-<h2>
-<!-- START NEW SECTION -->
+ <!-- START NEW SECTION -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
@@ -27,7 +13,6 @@
 
 
 <!-- GITHUB ACTIVITY GRAPH -->
-
 
 # Each being is a 🌟 with its own trajectory to follow.
 
@@ -104,6 +89,23 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor)
+ 
+ 
+ <!-- START NEW SECTION -->
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that will make your day!</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+ 
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
+</div>
+<h2>
+
+<!-- GITHUB ACTIVITY GRAPH -->
   
   ### Stats. 📊
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Myloveken github stats" /> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
