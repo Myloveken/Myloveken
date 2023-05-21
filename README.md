@@ -95,14 +95,19 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
  
  
  <!-- START NEW SECTION -->
-<div align="center">
+<div align="Center"> 
+ 
+ <img align="left" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+<!--<img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
+ 
  <br>
  <p align="centre"><b> Here is a random joke that will make your day!</b></p>
- 
- 
+
 ![Jokes Card](https://readme-jokes.vercel.app/api) <details><summary align="center">
  
  </samp></summary><p align ="centre"> Refresh the page to load New joke</p></details>
+ 
+  
  <br>
 </div>
 <h2>
