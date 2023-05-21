@@ -1,6 +1,6 @@
 
 <!--Title @Myloveken-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006ae0&size=30%22&font=&center=true&vCenter=true&width=1000&lines=HELLO!👋;i'm+from+of+Haiti;i'm+a+student+Full+Stack+Development+at+Estacio+University;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=30%22&font=&center=true&vCenter=true&width=1000&lines=HELLO!👋;i'm+from+of+Haiti;i'm+a+student+Full+Stack+Development+at+Estacio+University;Welcome!)
 
  # Invisible, mysterious and reassuring energy - . aura or whatever - that I give off is all my own! I have no doubt!
  <!-- START NEW SECTION -->
