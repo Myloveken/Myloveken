@@ -17,7 +17,7 @@
 
 ### About me
 - i'm a Fullstack-Development student at Estacio University. 
-- I finished a java, cloud, react course in the Transforma Tec project by [@DIO](https://github.com/digitalinnovationone)
+- I finished a java, cloud, react course in the Transforma Tec project by [Digital Innovation One (DIO).](https://github.com/digitalinnovationone)
 -  [DIO.ME](https://web.dio.me/users/cherestek?tab=skills) a partnership with the Carrefour Brasil Group.
 
 ### Certificated 
