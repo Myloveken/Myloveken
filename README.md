@@ -96,20 +96,32 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
  
  
  <!-- START NEW SECTION -->
-  # Entertainment.
  
+ <div align="center">
+  
+  
+# Here is a random joke that'll make you laugh!
+ 
+ 
+<!-- START NEW SECTION -->
 <div align="center">
- 
- Here is a random joke that will make your day!
-  <img align="left" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
-<!--<img align="left" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a> -->
- 
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+ <br>
+ <p align="centre"><b> Refresh page to load New joke</b></p>
  
  
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+![Jokes Card](https://readme-jokes.vercel.app/api)
  
+ 
+ <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<br>
 </div>
+<h2>
+ 
+ <p align="center">
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+ 
+
 
 <!-- START NEW SECTION -->
  
@@ -117,7 +129,7 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
  
  
  
-  ### Stats. 📊
+  # My Stats GitHub. 📊
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Myloveken&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Myloveken github stats" /> <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Myloveken&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div> 
 
