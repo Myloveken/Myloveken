@@ -99,7 +99,6 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
   # Entertainment.
  
 <div align="center">
- <br>
  
  Here is a random joke that will make your day!
   <img align="left" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
@@ -109,9 +108,9 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
  
  
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-<br>
+ 
 </div>
-<h2>
+
 <!-- START NEW SECTION -->
  
 <!-- GITHUB ACTIVITY GRAPH -->
