@@ -97,11 +97,10 @@ I finished a java, cloud, react course in the Transforma Tec project by [DIO.ME]
  <p align="centre"><b> Here is a random joke that will make your day!</b></p>
  
  
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api) <details><summary align="center">
  
- 
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
-<br>
+ </samp></summary><p align ="centre"> Refresh the page to load New joke</p></details>
+ <br>
 </div>
 <h2>
 
