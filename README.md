@@ -42,6 +42,7 @@
   [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherestek@gmail.com)
   [![Gmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whiteE&amp;color:white)](mailto:kenlovechereste@outlook.fr?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
  
+ 
 <hr>
 
   
