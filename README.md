@@ -54,7 +54,6 @@
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
   
-  
 
  ### System. 🏅
   [![Eleven Forum](https://img.shields.io/badge/Eleven%20Forum-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.elevenforum.com/t/custom-icons-for-windows-11-thread-folders-dropbox-google-drive-podcasts-nvme-drive-steam-adobe.448)
@@ -139,7 +138,7 @@
   <!--Sneek Myloveken-->
 ![](https://github.com/Myloveken/Myloveken/raw/output/github-contribution-grid-snake.svg)
  <!---------------------------------------------------------------------------------------------------------------> 
-  <table style="width:100%",>
+  <table style="width:100",>
   
   
   <!-- START NEW SECTION -->
